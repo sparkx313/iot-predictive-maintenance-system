@@ -1,7 +1,6 @@
 __pycache__/
-*.pyc
-.env
-venv/
+*.py[cod]
 .venv/
-dist/
-build/
+venv/
+*.joblib
+vibration_anomalies.csv
